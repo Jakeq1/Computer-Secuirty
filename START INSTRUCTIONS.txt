@@ -1,2 +1,0 @@
-cd \Users\jakeq\Computer-Secuirty
-ng serve --open
